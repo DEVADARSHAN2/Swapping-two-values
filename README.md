@@ -28,7 +28,7 @@ print("Swapped values are: {} {} ".format(a,b))
 
 ```
 ## OUTPUT :
-![swap](https://user-images.githubusercontent.com/119432150/226389195-980c5ab0-8aa2-48fe-a5ef-0a2f08aae098.png)
+![swap](https://user-images.githubusercontent.com/119432150/226390668-de75d7b6-843d-4362-9eb6-0afbe3eb2760.png)
 
 
 ## RESULT:
